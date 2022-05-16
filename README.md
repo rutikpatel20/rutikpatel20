@@ -35,9 +35,11 @@
   <a href="https://www.instagram.com/rutvik__patel_20/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rutvik__patel_20-ffac81?style=for-the-badge&logo=instagram"></a>
   <a href="mailto:rutikkpatel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rutikkpatel@gmail.com-ffac81?style=for-the-badge&logo=gmail"></a>
   
+  <hr>
+  <!-- Random Joke -->
  <h4><i>Random dev joke for you!</i><br></h4>
  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api/" alt="README Jokes"></a>
-
+  <hr>
 
 </div>
 
