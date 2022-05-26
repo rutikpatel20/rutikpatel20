@@ -5,8 +5,9 @@
 <div align="center">
   <!-- Streak -->
   <h2> Github Streaks </h2>
-
+<a href="https://github.com/rutikpatel20/">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rutikpatel20&date_format=M%20j%5B%2C%20Y%5D&theme=radical&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" alt="rutikpatel20" />
+ </a>
 
   <hr>
 
